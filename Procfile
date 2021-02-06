@@ -1,1 +1,1 @@
-web:go run nekobin.go
+web: go run nekobin.go
